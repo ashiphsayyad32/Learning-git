@@ -1,0 +1,4 @@
+*.log
+/test/
+static/test
+f.docx
